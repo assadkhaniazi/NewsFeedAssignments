@@ -21,7 +21,7 @@ Setup and Installation
 
 
 git clone https://github.com/assadkhaniazi/NewsFeedAssignments
-cd NewsFeedAssignment
+
 
 
 Open the project in Xcode:
