@@ -1,6 +1,6 @@
 #NY Times Most Popular Articles App
 
-This app fetches and displays the most popular articles from the NY Times. Users can view a list of articles and tap on an article to see its details. The app uses the NY Times Most Popular Articles API and provides offline storage capabilities.
+This app fetches and displays the most popular articles from the NY Times. Users can view a list of articles and tap on an article to see its details. The app uses the NY Times Most Popular Articles API. 
 
 #Features
 
@@ -20,7 +20,7 @@ Setup and Installation
 #Clone the repository:
 
 
-git clone https://github.com/assadkhaniazi/NewsFeedAssignment.git
+git clone https://github.com/assadkhaniazi/NewsFeedAssignments
 cd NewsFeedAssignment
 
 
