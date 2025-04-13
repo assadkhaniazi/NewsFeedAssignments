@@ -679,8 +679,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Staging";
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9UK7AXJ632;
 				INFOPLIST_FILE = NewsFeed/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = NewsFeed;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1110,8 +1110,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Staging";
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9UK7AXJ632;
 				INFOPLIST_FILE = NewsFeed/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = NewsFeed;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
